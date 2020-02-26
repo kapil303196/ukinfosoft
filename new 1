@@ -1,0 +1,18 @@
+network-connection of devices. 
+internet-is connection of network.
+
+tcp/ip 
+vpn - virutal private network
+
+TCP/IP layering model 
+layer 5 - application = HTTP,FTP,SMTP
+layer 4 - transport = application from one computer to another computer application
+layer 3 - 
+layer 2 - 
+layer 1 - 
+
+OSI - Open system interconnection 
+
+stream paradigm - TCP
+message paradigm - UDP (radio)
+
